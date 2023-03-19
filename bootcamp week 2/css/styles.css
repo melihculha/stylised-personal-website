@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 625%;
+  color: #40513B;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+h2,h3 {
+    font-family: 'Merriweather', serif;
+    color: #40513B;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #9DC08B;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+strong {
+  font-size: 22px;
+}
+.m1 {
+  background-color: #9DC08B;
+  position: relative;
+  padding-top: 100px;
+}
+.m3 {
+background-color: #9DC08B;
+padding: 50px 0 20px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile {
+  width: 50½;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  text-align: center;
+}
+.design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 225px;
+  top: 50px;
+}
+.bot-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.melihphoto {
+  width: 20%;
+}
+a:link {
+  color: #40513B;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:visited {
+  color: #40513B;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.contact-me {
+  line-height: 2;
+} 
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: #609966;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9DC08B;
+  text-decoration: none;
+}
